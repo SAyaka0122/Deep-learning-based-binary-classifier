@@ -29,7 +29,7 @@ python demo.py
  
 作成情報を列挙する
  
-* 作成者
+* Ayaka Suzuki & Yoshiro Suzuki
 * 所属
 * E-mail
  
