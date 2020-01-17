@@ -27,11 +27,8 @@ python demo.py
  
 # Author
  
-作成情報を列挙する
- 
 * Ayaka Suzuki & Yoshiro Suzuki
-* 所属
-* E-mail
+* Tokyo Institute of Technology
  
 # License
 ライセンスを明示する
