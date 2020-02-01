@@ -20,7 +20,7 @@ Here we share the code used in our work.
 Dataset α: https://data.mendeley.com/datasets/rscbjbr9sj/3
 Dataset β: https://sites.google.com/site/hosseinrabbanikhorasgani/datasets-1
 
-2. Resize the datasets: Use "resize.ipynb" and resize those images to 299x299x3.
+2. Resize the datasets: Use "resize.ipynb" and resize the images to 299x299x3.
 3. Train: Use "train.ipynb"
 4. Test: Use "test.ipynb"
  
