@@ -16,14 +16,13 @@ Here we share the code used in our work.
 * scikit-learn 0.21.2
  
 # Usage
- 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
- 
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+1. Download the datasets: We used the following datasets.
+Dataset α: https://data.mendeley.com/datasets/rscbjbr9sj/3
+Dataset β: https://sites.google.com/site/hosseinrabbanikhorasgani/datasets-1
+
+2. Resize the datasets: Use "resize.ipynb" and resize those images to 299x299x3.
+3. Train: Use "train.ipynb"
+4. Test: Use "test.ipynb"
  
 # Note
  
