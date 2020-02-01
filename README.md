@@ -17,12 +17,16 @@ Here we share the code used in our work.
  
 # Usage
 1. Download the datasets: We used the following datasets.
+<br>
 Dataset α: https://data.mendeley.com/datasets/rscbjbr9sj/3
+<br>
 Dataset β: https://sites.google.com/site/hosseinrabbanikhorasgani/datasets-1
-
-2. Resize the datasets: Use "resize.ipynb" and resize the images to 299x299x3.
-3. Train: Use "train.ipynb"
-4. Test: Use "test.ipynb"
+<br>
+2. Resize the datasets: Use "Resize.ipynb" and resize the images to 299x299x3.
+<br>
+3. Train: Use "Train.ipynb"
+<br>
+4. Test: Use "Test.ipynb"
  
 # Note
  
