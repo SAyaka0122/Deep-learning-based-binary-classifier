@@ -1,8 +1,6 @@
-# Code used in paper "Deep learning achieves perfect anomaly detection on 108,308 retinal images including unlearned diseases"
+# Our code
  
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
- 
-"hoge"が何かを簡潔に紹介する
+Our code used in paper "Deep learning achieves perfect anomaly detection on 108,308 retinal images including unlearned diseases"
  
 # Requirement
  
