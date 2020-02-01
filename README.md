@@ -25,9 +25,7 @@ Dataset β: https://sites.google.com/site/hosseinrabbanikhorasgani/datasets-1
 <br>
 1. Download the datasets: We used the above datasets.
 2. Resize the datasets: Use "Resize.ipynb" and resize the images to 299x299x3.
-<br>
 3. Train: Use "Train.ipynb"
-<br>
 4. Test: Use "Test.ipynb"
  
 # Note
