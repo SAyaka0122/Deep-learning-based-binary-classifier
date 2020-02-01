@@ -35,7 +35,5 @@ Please note that we cannot answer your technical issues.
 * Tokyo Institute of Technology
  
 # License
-ライセンスを明示する
- 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+Our code is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
  
