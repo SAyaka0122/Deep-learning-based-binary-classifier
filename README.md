@@ -17,6 +17,7 @@ Here we share the code used in our work.
  
 # Usage
 
+https://github.com/SAyaka0122/Deep-learning-based-binary-classifier/files/4142488/2.docx
 
 
 Dataset α: https://data.mendeley.com/datasets/rscbjbr9sj/3
