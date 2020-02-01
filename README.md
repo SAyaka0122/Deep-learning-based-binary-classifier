@@ -23,7 +23,7 @@ Dataset α: https://data.mendeley.com/datasets/rscbjbr9sj/3
 <br>
 Dataset β: https://sites.google.com/site/hosseinrabbanikhorasgani/datasets-1
 <br>
-1. Download the datasets: We used the above datasets.
+1. Download the above datasets
 2. Resize the datasets: Use "Resize.ipynb" and resize the images to 299x299x3.
 3. Train: Use "Train.ipynb"
 4. Test: Use "Test.ipynb"
