@@ -6,10 +6,11 @@
  
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
-* huga 3.5.2
-* hogehuga 1.0.2
+* Python 3.6.9
+* Keras 2.2.5
+* tensorflow 1.13.1
+* tensorflow-gpu 1.13.1
+* scikit-learn 0.21.2
  
 # Usage
  
@@ -35,6 +36,3 @@ python demo.py
  
 "hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
  
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
