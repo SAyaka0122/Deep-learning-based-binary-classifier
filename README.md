@@ -2,7 +2,9 @@
  
 Our deep-learning-based binary classifier (normal or abnormal) achieved a PERFECT classification on 108,308 two-dimensional retinal OCT images. 
 <br>
-Here we share the code used in our work and our paper is on arXiv now.https://arxiv.org/abs/2001.05859
+Our paper is on arXiv now.https://arxiv.org/abs/2001.05859
+<br>
+Here we share the code used in our work.
 
  
 # Requirement
