@@ -4,7 +4,7 @@ Our deep-learning-based binary classifier (normal or abnormal) achieved a PERFEC
 <br>
 Our paper is on arXiv now.https://arxiv.org/abs/2001.05859
 <br>
-The code shown here corresponds to Supplementary Fog. 1 in our paper.
+The code shown here corresponds to Supplementary Fig. 1 in our paper.
 <br>
 <br>
 <br>
