@@ -1,6 +1,9 @@
 # Our code
  
-We share the code used in paper "Deep learning achieves perfect anomaly detection on 108,308 retinal images including unlearned diseases".
+Our deep-learning-based binary classifier (normal or abnormal) achieved a PERFECT classification on 108,308 two-dimensional retinal OCT images. 
+Our paper is on arXiv now.https://arxiv.org/abs/2001.05859
+Here we share the code used in our wokr above.
+
  
 # Requirement
  
@@ -22,7 +25,7 @@ python demo.py
  
 # Note
  
-注意点などがあれば書く
+Please note that we cannot answer your technical issues.
  
 # Author
  
