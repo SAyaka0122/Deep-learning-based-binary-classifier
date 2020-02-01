@@ -1,6 +1,6 @@
 # Our code
  
-Our code used in paper "Deep learning achieves perfect anomaly detection on 108,308 retinal images including unlearned diseases"
+We share the code used in paper "Deep learning achieves perfect anomaly detection on 108,308 retinal images including unlearned diseases".
  
 # Requirement
  
