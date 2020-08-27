@@ -36,7 +36,7 @@ Please note that we cannot answer your technical issues.
  
 # Author
  
-* Ayaka Suzuki & Yoshiro Suzuki
+Ayaka Suzuki & Yoshiro Suzuki
  
 # License
 Our code is under [GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/).
