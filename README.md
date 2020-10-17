@@ -32,7 +32,7 @@ Dataset β: https://sites.google.com/site/hosseinrabbanikhorasgani/datasets-1
  
 # Note
  
-Please note that we cannot answer your technical issues.
+Please note that we cannot answer any technical issues.
  
 # Author
  
