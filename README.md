@@ -20,9 +20,9 @@ To run the model, jupyter notebook can be used. We recommend you to use the ipyn
 Dataset α: https://data.mendeley.com/datasets/rscbjbr9sj/3<br>
 Dataset β: https://sites.google.com/site/hosseinrabbanikhorasgani/datasets-1
 
-2. Use "Resize.ipynb" to resize the images to 299x299x3.
-3. Use "Train.ipynb" to train the model.
-4. Use "Test.ipynb" to test the model.
+2. Use "Resize.ipynb" to resize the images to 299x299x3.<br>
+3. Use "Train.ipynb" to train the model.<br>
+4. Use "Test.ipynb" to test the model.<br>
  
 # Note
  
