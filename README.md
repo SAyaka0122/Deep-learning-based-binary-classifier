@@ -13,18 +13,16 @@ The detail of the model is described in our paper (Deep learning achieves perfec
 * scikit-learn 0.21.2
 <br>
 To run the model, jupyter notebook can be used. We recommend you to use the ipynb files of this repository for running the model. Please upload ipynb files of this repository to Google Colaboratory or etc.
- 
+
 # Usage
-
-1. Datasets used for training and testing the model is available from the following URL:
-
+ 
+* Datasets used for training and testing the model is available from the following URL:
 Dataset α: https://data.mendeley.com/datasets/rscbjbr9sj/3
 Dataset β: https://sites.google.com/site/hosseinrabbanikhorasgani/datasets-1
-<br>
-<br>
-2. Use "Resize.ipynb" and resize the images to 299x299x3.
-3. Use "Train.ipynb" to train the model.
-4. Use "Test.ipynb" to test the model.
+
+* Use "Resize.ipynb" and resize the images to 299x299x3.
+* Use "Train.ipynb" to train the model.
+* Use "Test.ipynb" to test the model.
  
 # Note
  
