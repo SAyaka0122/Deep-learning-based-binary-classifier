@@ -1,6 +1,6 @@
 # Deep-learning-based binary classifier (normal or abnormal) achieves a PERFECT classification on 108,308 two-dimensional retinal OCT images
 
-This repository includes source code of deep-learning-based binary classifier (normal or abnormal) for classification on two-dimensional retinal OCT images. 
+This repository includes source code of deep-learning-based binary classifier (normal or abnormal) for classifying two-dimensional retinal OCT images. 
 <br>
 The detail of the model is described in our paper (Deep learning achieves perfect anomaly detection on 108,308 retinal images including unlearned diseases, https://arxiv.org/abs/2001.05859). The code shown here corresponds to Supplementary Fig. 1 in our paper.
 
@@ -16,7 +16,7 @@ To run the model, jupyter notebook can be used. We recommend you to use the ipyn
 
 # Usage
  
-1. Datasets used for training and testing the model is available from the following URL:<br>
+1. Datasets used for training and testing the model is available from the following URLs:<br>
 Dataset α: https://data.mendeley.com/datasets/rscbjbr9sj/3<br>
 Dataset β: https://sites.google.com/site/hosseinrabbanikhorasgani/datasets-1
 
