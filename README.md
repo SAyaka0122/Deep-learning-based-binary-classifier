@@ -16,9 +16,7 @@ To run the model, jupyter notebook can be used. We recommend you to use the ipyn
  
 # Usage
 
-
-
-1. Datasets used for training and testing the model is available from the following URL:
+1. Datasets used for training and testing the model is available from the following URL:<br>
 Dataset α: https://data.mendeley.com/datasets/rscbjbr9sj/3
 <br>
 Dataset β: https://sites.google.com/site/hosseinrabbanikhorasgani/datasets-1
