@@ -13,7 +13,7 @@ The detail of the model is described in our paper (Deep learning achieves perfec
 * tensorflow-gpu 1.13.1
 * scikit-learn 0.21.2
 <br>
-To run the model, jupyter notebook can be used. We recommend you to use the ipynb files of this repository for running the model. Please upload ipynb files of this repository to Google Colaboratory or etc.
+To run the model, jupyter notebook can be used. We recommend you to use the ipynb files of this repository for running the model. 
 
 # Usage
  
